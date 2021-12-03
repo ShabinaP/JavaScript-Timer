@@ -41,6 +41,10 @@ body {
   stroke: #900A0A;
 }
 
+.ringStop {
+  stroke: #900A0A;
+}
+
 /* inner circle */
 .timer {
   align-items: center;
