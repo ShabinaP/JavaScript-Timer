@@ -11,7 +11,10 @@ When timer is stopped:
 
 ![Screenshot 2021-12-03 at 21 10 55](https://user-images.githubusercontent.com/79164944/144673475-3aaaeb7f-69e4-4d68-b2bd-5a247976f211.png)
 
+## If I had more time I would:
+- Add functionality to account for hours.
 
-## Created By
+
+### Created By
 - Boilerplate HTML and CSS from Advent of JS
 - React functionality added by Author: ShabinaP - github.com/ShabinaP 
