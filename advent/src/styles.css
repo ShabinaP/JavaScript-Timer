@@ -112,3 +112,21 @@ input[type=text]:disabled {
 .settings:hover {
   opacity: 1;
 }
+
+.reset {
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  letter-spacing: 10px;
+  line-height: 20px;
+  background: none;
+  color: white;
+  opacity: .5;
+  border: none;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+
+}
+.reset:hover {
+  opacity: 1;
+}
